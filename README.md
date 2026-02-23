@@ -42,4 +42,4 @@ Enter numbers using buttons
 Select an arithmetic operation
 
 Press = to get the result
-![Simple Calculator](calculator.png)
+![Simple Calculator](calculator.png)(https://github.com/kamini-bhatia/Tkinter-Project/blob/main/calculator.PNG)
