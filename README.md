@@ -1,7 +1,6 @@
 1️ Prime Number Checker
 
 A simple GUI application that checks whether a given number is prime or not.
-![Prime Number Checker][(prime_checker.png)](https://github.com/kamini-bhatia/Tkinter-Project/blob/main/prime_checker.PNG)
 
 🔹Features
 
@@ -20,6 +19,8 @@ Enter a number in the input field
 Click on Check Prime
 
 The result will be displayed on the screen
+![Prime Number Checker][(prime_checker.png)](https://github.com/kamini-bhatia/Tkinter-Project/blob/main/prime_checker.PNG)
+
 
 2️⃣ Simple Calculator
 
