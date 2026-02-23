@@ -46,11 +46,15 @@ Press = to get the result
 ![Simple Calculator][(calculator.png)](https://github.com/kamini-bhatia/Tkinter-Project/blob/main/calculator.PNG)
 
 ### How to Run the Project
+```
 git clone https://github.com/kamini-bhatia/Tkinter-Project.git
-
+```
+```
 cd Tkinter-Project
-
+```
+```
 python prime_checker.py
-
+```
+```
 python calculator.py
-
+```
