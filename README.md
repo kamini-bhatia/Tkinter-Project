@@ -1,4 +1,4 @@
-# 1️ Prime Number Checker
+## 1️ Prime Number Checker
 
 A simple GUI application that checks whether a given number is prime or not.
 
@@ -22,7 +22,7 @@ The result will be displayed on the screen
 ![Prime Number Checker][(prime_checker.png)](https://github.com/kamini-bhatia/Tkinter-Project/blob/main/prime_checker.PNG)
 
 
-# 2️⃣ Simple Calculator
+## 2️⃣ Simple Calculator
 
 A basic calculator application that performs standard arithmetic operations.
 
