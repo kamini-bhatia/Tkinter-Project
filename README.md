@@ -1,6 +1,7 @@
 1️ Prime Number Checker
 
 A simple GUI application that checks whether a given number is prime or not.
+![Prime Number Checker](prime_checker.png)
 
 🔹Features
 
